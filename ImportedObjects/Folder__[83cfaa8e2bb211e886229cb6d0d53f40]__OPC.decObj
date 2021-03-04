@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ExportDescription xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>OPC</Name>
+  <ParentFolderId>40f1522a-a028-47b9-a1d5-6e58c0a1ee35</ParentFolderId>
+  <ParentFolderPath>System/Designers/Catalog/System Defaults</ParentFolderPath>
+  <TypeName>DecisionsFramework.ServiceLayer.Services.Folder.Folder</TypeName>
+  <ShortTypeName>Designer Folder</ShortTypeName>
+  <Id>83cfaa8e-2bb2-11e8-8622-9cb6d0d53f40</Id>
+  <ExportedBy>admin@decisions.com</ExportedBy>
+  <ExportedOn>2018-04-05T15:49:21.389741-04:00</ExportedOn>
+  <PlatformVersion>5.0.0.50676</PlatformVersion>
+  <DependsOn />
+  <DependsOnAssemblies />
+  <StructureImport>false</StructureImport>
+  <DependsOnStructures>false</DependsOnStructures>
+  <Size>665</Size>
+  <Data>SnNvblN0b3JhZ2VQSwMEFAAAAAgAKn6FTC+SJMIWAgAA1gMAAAsAAABKc29uU3RvcmFnZW1SW4+iMBT+K4Rn0AqCaOKDF9y4q0JG4maeNgUO0h0sk7ZozMT/vi03Z3enJDTnO9+59HznQ0f67EM/qd+vKAiD5Xd/FekzZEjzNfQPi72vz/Q1JISTkvINwxe4lextcAR2JQns8B1YZ/DBpixSaTeXof0fZ2gnYAqaOwOkPkNbVYWoGMwpVILhwtDCKi5I8gPuUfkGdE6rotANHacXQgmXFFGyE4FbQIu77C1TPpbk5ArpP+YaC5CQ41jeZDK1UH8kJ8F0CS9lKdqYhIFkp0uV8vh6jPz9Ewxom8m1XWeCJjayXTTuMgEVRNybJ2/XkjVG2cixLGxiZHnmeBJPTTxKHdMFx0sQHgHYTh93kIORMUG4klBWJ1lCjq+kZNH9Hb4e/ho4OdP2Ahay8jckommhT1P34tlJhrEHphXHljkagWd6rmWZ0yR2U5Q6djZGfUTAVPxMfyKqhbbDrpj2LCOFCbHI1cTuXMBl2HH4cIUFLsrzsHHIRciwlJkPm3fmmB/f5bMyAqmSstVAwVXc5OcdRtIUaGsQmgMjIgR2IbyeiXQI5eBHSCrW69DxeVO/BxX3UqZ14Vpq83k+uT7J7Tn21PM8x7VbuSlwQeh5B1co1HJJiP9Ve6vWcLMLfmr7xWHxzd/7h0jbBLu1/6K4eXnb0ogBtO3wKt4DrTrR60nXw5K+NRQg+rVurYB+vdMPQ1el0ePxB1BLAQIzABQAAAAIACp+hUwvkiTCFgIAANYDAAALAAAAAAAAAAAAAAAAAAAAAABKc29uU3RvcmFnZVBLBQYAAAAAAQABADkAAAA/AgAAAAA=</Data>
+  <RequiresApproval>false</RequiresApproval>
+  <OverridingImport>false</OverridingImport>
+  <ModuleName>Decisions.OPC</ModuleName>
+  <ImportOrder>105</ImportOrder>
+  <ModifiedOn>2018-04-05T15:44:48.563</ModifiedOn>
+  <BehaviorTypeName>DecisionsFramework.Design.DesignerProjectFolder</BehaviorTypeName>
+</ExportDescription>

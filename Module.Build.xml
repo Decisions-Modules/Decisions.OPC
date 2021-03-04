@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<CreateModuleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Resources>
+	<CoreServicesDlls>
+      <string>.\Decisions.OPC\bin\Debug\netcoreapp3.1\Decisions.OPC.dll</string>
+    </CoreServicesDlls>
+    <CliDlls/>
+	<WebDlls>		
+	</WebDlls>
+    <SilverlightDlls />
+    <InstallScript/>
+    <SqlScripts />
+    <ObjectsToImport>
+		<string>ImportedObjects/*.*</string>
+    </ObjectsToImport>
+    <MsSqlScript />
+    <MySqlScript />
+  </Resources>
+   <ImagePath>../../Content/Images/Modules/opc.png</ImagePath>
+  <Description>OPC Connector</Description>
+</CreateModuleInfo>

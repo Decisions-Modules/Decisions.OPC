@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <OutputType>Library</OutputType>
+
+    <RootNamespace>Decisions.OPC</RootNamespace>
+    <AssemblyName>$(RootNamespace)</AssemblyName>
+    <RootPath>../../../</RootPath>
+   
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Reference Include="DecisionsFramework">
+      <HintPath>$(RootPath)output\core\framework\DecisionsFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ServiceModel.Http" Version="4.7.0" />
+  </ItemGroup>
+</Project>
